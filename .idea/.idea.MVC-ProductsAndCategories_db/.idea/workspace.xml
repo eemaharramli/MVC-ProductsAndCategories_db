@@ -14,6 +14,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="8e21e6b6-8235-4e0f-b4f5-b446b226328c" />
   </component>
@@ -35,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.MVC-ProductsAndCategories_db: IIS Express">
@@ -82,7 +90,7 @@
       <workItem from="1643831001625" duration="38000" />
       <workItem from="1643831728278" duration="2425000" />
       <workItem from="1643836489002" duration="48000" />
-      <workItem from="1643836643082" duration="2289000" />
+      <workItem from="1643836643082" duration="3968000" />
     </task>
     <servers />
   </component>
