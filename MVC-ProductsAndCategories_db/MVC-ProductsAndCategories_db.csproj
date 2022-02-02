@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>MVC_ProductsAndCategories_db</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Views" />
+    </ItemGroup>
+
+</Project>

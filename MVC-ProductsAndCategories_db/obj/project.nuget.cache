@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZIHOD8PrRm9229CJzpdxdTKXpWUMwHBufn1a3edDCh/A5HVxI5zMkLw+Fjb2yD9gNWzgZFMbGTEQy3OJjrmWA==",
+  "success": true,
+  "projectFilePath": "/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db.csproj",
+  "expectedPackageFiles": [
+    "/Users/elnur/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.13/microsoft.netcore.app.host.osx-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
