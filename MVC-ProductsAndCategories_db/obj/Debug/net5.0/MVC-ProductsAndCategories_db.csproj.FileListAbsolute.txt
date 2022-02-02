@@ -99,3 +99,8 @@
 /Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/MVC-ProductsAndCategories_db.pdb
 /Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/MVC-ProductsAndCategories_db.genruntimeconfig.cache
 /Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/MVC-ProductsAndCategories_db.csproj.CopyComplete
+/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/Razor/Views/Home/Create.cshtml.g.cs
+/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/Razor/Views/Home/Detail.cshtml.g.cs
+/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/elnur/Desktop/C#/MVC/MVC-ProductsAndCategories_db/MVC-ProductsAndCategories_db/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs

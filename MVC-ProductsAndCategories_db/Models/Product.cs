@@ -7,7 +7,7 @@ namespace MVC_ProductsAndCategories_db.Models
         public int Id { get; set; }
         public string Name { get; set; }
         private readonly int _price = new Random().Next(1, 100);
-        public Categorie Category { get; set; }
+        public Category Category { get; set; }
 
 
         public override string ToString()

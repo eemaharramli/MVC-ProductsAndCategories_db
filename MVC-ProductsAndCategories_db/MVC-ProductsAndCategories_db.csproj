@@ -5,8 +5,4 @@
         <RootNamespace>MVC_ProductsAndCategories_db</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Views" />
-    </ItemGroup>
-
 </Project>

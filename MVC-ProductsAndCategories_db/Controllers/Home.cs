@@ -11,9 +11,9 @@ namespace MVC_ProductsAndCategories_db.Controllers
         public IActionResult Index()
         {
 
-            var laptop = new Categorie{Id = 1, Name = "Laptop"};
-            var imac = new Categorie {Id = 2, Name = "IMac"};
-            var iphone = new Categorie {Id = 3, Name = "IPhone"};
+            var laptop = new Category {Id = 1, Name = "Laptop"};
+            var imac = new Category {Id = 2, Name = "IMac"};
+            var iphone = new Category {Id = 3, Name = "IPhone"};
             
             var products = new List<Product>
             {
@@ -22,11 +22,11 @@ namespace MVC_ProductsAndCategories_db.Controllers
                 new Product{Id = 3, Name = "IPhone", Category = iphone},
             };
 
-            var categories = new List<Categorie>
+            var categories = new List<Category>
             {
-                new Categorie{Id = 1, Name = "Laptop"},
-                new Categorie{Id = 2, Name = "IMac"},
-                new Categorie{Id = 3, Name = "IPhone"}
+                new Category{Id = 1, Name = "Laptop"},
+                new Category{Id = 2, Name = "IMac"},
+                new Category{Id = 3, Name = "IPhone"}
             };
 
             return View(new HomeViewModel
@@ -34,6 +34,17 @@ namespace MVC_ProductsAndCategories_db.Controllers
                 Products = products,
                 Categories = categories
             });
+        }
+
+        public IActionResult Detail()
+        {
+            Category laptop = new Category{Id = 1, Name = "Laptop"};
+            return View(new Product{Id = 1, Name = "Macbook", Category = laptop});
+        }
+
+        public IActionResult Create()
+        {
+            return View();
         }
     }
 }
